@@ -1,0 +1,13 @@
+{
+  "name": "wize-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "typings": "js/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
